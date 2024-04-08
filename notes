@@ -1,0 +1,67 @@
+// const heading=React.createElement
+// ("h1",
+// {id:"heading",class:"myroom",xyz:"ankit"},
+// "Hello world from React!");
+
+
+
+
+
+
+// const heading=React.createElement
+// ("div",
+// {id:"parent"},
+// [React.createElement("div",{id:"child1"},
+// [React.createElement("h1",{},"I am h1 toy"),React.createElement("h1",{},"I am also sunil")]),React.createElement("div",{id:"child2"},
+// [React.createElement("h1",{},"I am h1 tag"),React.createElement("h1",{},"I am also h1 tag")])]);
+// console.log(heading);
+//     const root=ReactDOM.createRoot(document.getElementById("root"));
+//     root.render(heading);
+
+//react -element
+// const heading=React.createElement("h1",{id:"heading"},"Namaste javascript init");
+// const root=ReactDOM.createRoot(document.getElementById("root"));
+// root.render(heading);
+
+//jsx
+
+// const jsxheading=
+// (<h1 id="jsxhead" 
+// className="jsxc">
+//     Namaste react by ankit
+//     </h1>);
+// const root=ReactDOM.createRoot(document.getElementById("root"));
+// root.render(jsxheading);
+
+//react function component
+// const Title=()=><p>
+//     price is high</p>
+// //react element
+// const title= <p>price is high</p>
+
+// const a=50;
+// const Heading=()=>(
+//     <div>
+//         {a+56}
+//         {title}
+//         {Title()}
+//         <Title></Title>
+//     <h1>Namaste react </h1>
+//     <h2>by ankit kumar</h2>
+//     <Title />
+//       </div>
+// )
+
+// const root=ReactDOM.createRoot(document.getElementById("root"));
+// root.render(<Heading/>);
+
+//html
+// // <!-- <script>
+//    const heading= document.createElement("h1");
+//    heading.innerText="Hello world form Namaste javasacript!";
+//    const root=document.getElementById("root");
+//    root.appendChild(heading);
+// </script> -->
+
+// <!-- <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+// <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script> -->
